@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Great Wall of China is not, as is claimed, the only human-made object visible from the Moon or from space."
 date:   2017-03-18 16:16:13 -0700
 categories: jekyll update
 ---
