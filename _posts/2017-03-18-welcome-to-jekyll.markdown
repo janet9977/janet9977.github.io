@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Great Wall of China || To the unaided eye, the landmark is certainly not visible from the Moon."
+title:  "To the unaided eye, the Great Wall of China is certainly not visible from the Moon."
 date:   2017-03-18 16:16:13 -0700
 categories: jekyll update
 ---
