@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Shaving hair does change its thickness, color or rate of growth. || http://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/hair-removal/faq-20058427?scrlybrkr"
-date:   2017-03-22 16:16:13 -0700
+date:   2017-04-05 16:16:13 -0700
 categories: jekyll update
 ---
