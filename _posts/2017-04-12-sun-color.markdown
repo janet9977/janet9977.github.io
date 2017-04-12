@@ -1,0 +1,6 @@
+---
+layout: post
+title: "The Sun is essentially all colors mixed together, which appear to our eyes as white. || http://solar-center.stanford.edu/SID/activities/GreenSun.html"
+date:   2017-03-29 16:16:13 -0700
+categories: jekyll update
+---

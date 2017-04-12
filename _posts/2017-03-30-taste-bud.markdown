@@ -1,0 +1,6 @@
+---
+layout: post
+title: "All different tastes can be detected on all parts of the tongue. || http://www.dailymail.co.uk/sciencetech/article-2828561/The-tongue-taste-map-WRONG-Flavours-actually-perceived-neurons-brain-scientists-reveal.html"
+date:   2017-03-30 16:16:13 -0700
+categories: jekyll update
+---
