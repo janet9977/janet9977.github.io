@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Sitting too close to the TV will not damage your eyes, but it may cause eyestrain. || https://www.aao.org/eye-health/ask-ophthalmologist-q/can-close-tv-viewing-damage-eyes"
+date:   2017-03-26 16:16:13 -0700
+categories: jekyll update
+---

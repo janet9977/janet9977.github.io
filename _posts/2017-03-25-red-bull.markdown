@@ -1,0 +1,6 @@
+---
+layout: post
+title: "The color red does not make bulls go mad. They will charge at whichever object is moving the most. || http://www.discovery.com/tv-shows/mythbusters/mythbusters-database/color-red-makes-bulls-go-ballistic/"
+date:   2017-03-25 16:16:13 -0700
+categories: jekyll update
+---

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "We use 100% of our brain. It is absurd to believe that 90% of our brain is useless meat. || https://faculty.washington.edu/chudler/tenper.html"
+date:   2017-03-27 16:16:13 -0700
+categories: jekyll update
+---
