@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "A dog year is not always one human year. It depends on size and breed. || http://www.businessinsider.com/is-a-dog-year-equal-to-7-human-years-2014-10?scrlybrkr"
+date:   2017-03-20 16:16:13 -0700
+categories: jekyll update
+---
